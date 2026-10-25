@@ -24,6 +24,18 @@ Python 3.8+. No dependencies.
 - `view` writes a static, dark `viewer.html` with each note as a card and its problems highlighted. Text is HTML-escaped.
 - The sample notes use invented data; two are deliberately broken so the checker has something to find.
 
+## Results
+
+Measured from the author's own use, numbers only, no titles or content. The author keeps 65 work-item notes, opened between 26 Mar and 19 Oct 2026 and last updated between 23 Sep and 25 Oct 2026.
+
+| Status | Notes |
+| :--- | ---: |
+| Done | 64 |
+| Open | 1 |
+
+- All 65 carry an opened date; 35 also name an owner and a requester.
+- Not measured: checker flags. The author's checker does not log its results, so no flag count is claimed.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
