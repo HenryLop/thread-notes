@@ -40,4 +40,4 @@ Measured from the author's own use, numbers only, no titles or content. The auth
 
 MIT. See [LICENSE](LICENSE).
 
-Built with Claude Code. More: https://henrylopezpardo.com/work/thread-notes/
+Built with Claude Code.
